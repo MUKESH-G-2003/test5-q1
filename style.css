@@ -1,0 +1,26 @@
+body{
+    display: flex;
+    justify-content: center;
+}
+
+.container{
+    border: 2px solid;
+    height: 250px;
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding-top: 40px;
+}
+
+.container i{
+    font-size: 100px;
+    
+}
+
+.disc p{ 
+    font-size: 20px;
+}
+
+
+
